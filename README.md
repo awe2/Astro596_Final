@@ -2,7 +2,7 @@
 
 <h1>Spectral Auto-Encoder Photo-Z<h1>
 
-<h4><p>This project will compare a new kind of Photometric Redshfits code: 'a spectral auto-encoder', to baseline algorithems Random Forest, PCA+KNN, and Multi- Layer Perceptron Networks.</p>
+<h4><p>This project will compare a new kind of Photometric Redshfits code: 'a spectral auto-encoder', to baseline algorithems: Random Forest, PCA+KNN, and Multi-Layer Perceptron Networks.</p>
 
 <p>Photometric Redshifts are useful for creating large catalgoues of redshift information quickly without the need to measure spectra, which is more cost and time consuming. With the advent of next generation experiments with wide-deep views (Such as LSST), we will need to perform data analysis on large datasets at a quick pace. The fact is that we will soon be obserserving too many sources per night to measure spectra for each! However, photometric quantities such as images and their derived quantities are relatively cheaper to compute. The challenge is how to re-construct the information in spectra from just a few photometric quantities. What is more, providing accurate, low biased, and precise redshifts with uncertainty are key to future missions like Euclid.</p>
 
