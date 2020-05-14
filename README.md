@@ -17,3 +17,5 @@
 <p>Patrick Aleo  - Random Forest</p>
 <p>Lina Florez   - Clustering</p>
 
+<p>All</p>       - Presentation
+
