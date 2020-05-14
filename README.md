@@ -12,15 +12,8 @@
 
 <p>We will then compare this Spectral auto-encoder to baseline networks to evaluate whether providing direct spectral information to the network in training improved overall performance.</p></h4>
 
-<p>Andrew Engel  - Spectral Encoder</p>
+<p>Andrew Engel  - Spectral Encoder, Tutorial</p>
 <p>Tsung-Han Yeh - Artificial Neural Network</p>
 <p>Patrick Aleo  - Random Forest</p>
 <p>Lina Florez   - Clustering</p>
-
-<p>Schedule</p>
-<p>Meeting 10AM Friday May 8th:</p>
-<p>Have Algorithem and Analysis Work Done, work on combining analysis into presentation</p>
-
-<p>Sometime after May 8th--</p>
-<p>Present</p>
 
